@@ -1,3 +1,8 @@
+# JOJO-aplication
+
+Aplicação feita com React, html ,css e javascript, inspiração na publicação (https://www.linkedin.com/posts/vit%C3%B3ria-santos-3929191bb_streaming-thelastofus-figma-activity-7024775425977430016-nXEv?utm_source=share&utm_medium=member_desktop).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
