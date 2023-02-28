@@ -1,4 +1,4 @@
-#Serie The Last Of Us react
+# Serie The Last Of Us react
 
 Aplicação feita com React, html ,css e javascript, inspiração na publicação (https://www.linkedin.com/posts/vit%C3%B3ria-santos-3929191bb_streaming-thelastofus-figma-activity-7024775425977430016-nXEv?utm_source=share&utm_medium=member_desktop).
 
