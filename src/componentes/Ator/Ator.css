@@ -1,0 +1,22 @@
+.Ator{
+    width: 90%;
+    padding: 0px 0px;
+    margin-top: 40px;
+    color: aliceblue;
+}
+
+.Ator img{
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+    float: left;
+    margin-right: 15px;
+}
+
+.Ator p{
+    color: white;
+}
+
+
+.red{color: red;}
+

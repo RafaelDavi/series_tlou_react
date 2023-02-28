@@ -1,0 +1,11 @@
+.Poster{
+    float: left;
+    margin: 40px 0px;
+}
+
+.Poster img{
+    width: 343px;
+    height: 508px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
